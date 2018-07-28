@@ -1,1 +1,2 @@
 Archivo nuevo.
+Archivo nuevo pero con modificaciones en el original.
